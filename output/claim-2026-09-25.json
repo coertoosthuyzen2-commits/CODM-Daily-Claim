@@ -1,26 +1,26 @@
 {
-  "player_id": "username",
+  "player_id": "7050526668226035713",
   "region": "auto",
   "country_guess": "IN",
   "profile": {
-    "username": "username",
-    "shortId": "8VUGGJ",
+    "username": "\u30e0\u305d\u30e1_Kitty",
+    "shortId": "GZX5J4",
     "picUrl": "",
     "levelImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_playerlevel.png",
-    "rank": "Rookie I",
-    "rankImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_pvp_ranking_1_rating_1.png"
+    "rank": "Grand Master II",
+    "rankImage": "https://cdn1.codashop.com/S/content/webstore/codm/images/icon_pvp_ranking_6_rating_2.png"
   },
   "resolved": {
     "region": "sa",
-    "country": "AU"
+    "country": "ZA"
   },
-  "country": "AU",
+  "country": "ZA",
   "freebies": [
     {
       "skuId": "com.activision.callofduty.webstore_39_0_0",
       "name": "DAILY GIFT",
       "status": "ACTIVE",
-      "buyUrl": "https://order-eu.codashop.com/claim-freebie-reward",
+      "buyUrl": "https://order-sg.codashop.com/claim-freebie-reward",
       "remaining": 1,
       "limit": 1,
       "refreshRate": 86400.0,
